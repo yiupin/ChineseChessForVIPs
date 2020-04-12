@@ -1,0 +1,104 @@
+/*
+  Localizable.strings
+  Chinese Chess
+
+*/
+
+// MenuView
+
+"Chinese Chess for visually impaired" = "中國象棋(盲人輔助)";
+"local game" = "本地遊戲";
+"online game" = "網絡遊戲";
+"start the game" = "開始遊戲";
+"No Internet connection. Make sure that Wi-Fi or mobile data is turned on that try again" = "沒有互聯網連接。請確保已打開Wi-Fi或移動數據，然後重試。";
+"help" = "遊戲幫助";
+
+// GameView
+
+"Red" = "紅";
+"Black" = "黑";
+
+"Red General" = "紅帥";
+"Red Advisor" = "紅仕";
+"Red Elephant" = "紅象";
+"Red Horse" = "紅傌";
+"Red Chariot" = "紅居";
+"Red Cannon" = "紅炮";
+"Red Solider" = "紅兵";
+
+"Black General" = "黑瞕";
+"Black Advisor" = "黑仕";
+"Black Elephant" = "黑象";
+"Black Horse" = "黑馬";
+"Black Chariot" = "黑居";
+"Black Cannon" = "黑炮";
+"Black Solider" = "黑卒";
+
+"Normal" = "";
+"Square" = "九宮格";
+
+"Corner" = "角落";
+"Edge" = "邊界";
+
+"E" = "伊";
+"I" = "哎";
+"10" = "十";
+
+"cant move" = "無法移動到那裡";
+"fail to select, now is" = "無法選擇，現在是";
+"Red's Turn" = "紅方的回合";
+"Black's Turn" = "黑方的回合";
+"please select a piece first" = "請先選擇棋子";
+"is chosen" = "已選擇";
+
+"Move" = "移動到";
+"can capture" = "可吃掉";
+"can move" = "可移動";
+
+"successful move, we now return to game menu" = "成功下棋，現在回到遊戲主頁";
+"finish game, we now return to game menu" = "遊戲完結，現在回到遊戲主頁";
+
+// GameViewController
+
+"Voice Control" = "語音控制";
+"Game Over" = "遊戲結束";
+"Black Win" = "黑方勝利";
+"Red Win" = "紅方勝利";
+"Play Again" = "再來一局";
+
+"Start Recording" = "正在聆聽";
+"has been captured" = "已被吃掉";
+"'s position is" = "的位置是";
+
+"Sorry, I don't know which" = "對唔住，我唔清楚邊一隻";
+"Sorry, I don't know which piece you are searching for" = "對唔住，我唔清楚你想搜尋邊一隻棋子";
+"which" = "邊一隻";
+"you want to select?" = "你想選擇?";
+"Sorry, I don't know which piece you want to select?" = "對唔住，我唔清楚你想選擇邊一隻棋子";
+"is already there" = "已經在該位置";
+"Sorry, I don't know which position you want to move" = "對唔住，我唔清楚你想移動到邊度";
+"Sorry, I don't understand" = "對唔住，我唔清楚你嘅意思";
+
+"return to game menu" = "回到遊戲主頁";
+"restart" = "重新開始";
+"undo" = "悔棋";
+"hint" = "提示";
+"Will display last move here" = "將會顯示上一步棋";
+
+"can move to" = "可移動到";
+"can capture" = "可以吃掉";
+"Sorry, it cant move" = "對唔住，該棋子沒有可以移動的地方";
+"Sorry, it cant capture any pieces" = "對唔住，該棋子不能吃掉任何棋子";
+"please select piece first" = "請先選擇棋子";
+
+// GameModel
+
+"is captured" = "被吃掉";
+"Move" = "移動到";
+
+"undo successfully" = "成功悔棋";
+"cant undo" = "無法悔棋";
+
+// GameCenterHelp
+
+"Would you like to play Chinese Chess?" = "來玩中國象棋嗎？";
